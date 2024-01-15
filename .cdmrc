@@ -1,0 +1,4 @@
+tabs: ["src/App.jsx"]
+terminals: ["yarn install && yarn dev"]
+playground-view: terminal-editor-browser
+run-button: yarn dev
